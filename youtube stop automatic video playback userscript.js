@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            YouTube: Stop Automatic Video Playback
 // @namespace       de.sidneys.userscripts
-// @homepage        https://github.com/volt4ire/userscripts/blob/main/youtube%20stop%20automatic%20video%20playback%20userscript.js
+// @homepage        https://raw.githubusercontent.com/volt4ire/userscripts/main/youtube%20stop%20automatic%20video%20playback%20userscript.js
 // @version         4.0.3
 // @description     Stop automatic video playback everywhere. Works on first page load & after navigating.
 // @author          sidneys, volt4ire
