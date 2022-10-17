@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name            YouTube: Stop Automatic Video Playback
-// @namespace       de.sidneys.userscripts
-// @homepage        https://raw.githubusercontent.com/volt4ire/userscripts/main/youtube%20stop%20automatic%20video%20playback%20userscript.js
-// @version         4.0.3
+// @namespace       org.sidneys.userscripts
+// @homepage        https://gist.githubusercontent.com/sidneys/02a9025ae1f23aefe1f4ea02e78b0ac8/raw/
+// @version         4.7.3
 // @description     Stop automatic video playback everywhere. Works on first page load & after navigating.
 // @author          sidneys, volt4ire
 // @icon            https://www.youtube.com/favicon.ico
@@ -11,10 +11,12 @@
 // @run-at          document-start
 // ==/UserScript==
 
+
 /**
  * ESLint
  * @global
  */
+/* global Debug */
 Debug = false
 
 
